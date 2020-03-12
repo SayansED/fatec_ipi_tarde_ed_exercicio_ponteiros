@@ -1,5 +1,5 @@
 Exercícios de Estrutura de dados
 
 Integrantes:
-Nome: Eduardo
-Nome:
+Nome: Eduardo Sayans
+Nome: Leonardo Duarte
